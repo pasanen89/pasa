@@ -1,0 +1,35 @@
+html {
+    font-size: 10px;
+    font-family: 'Baloo Chettan 2', cursive;
+    background-color: burlywood;
+  }
+  h1 {
+      font-size: 30px;
+      text-align: center;
+      margin: 0px;
+      padding: 0px 0px;
+      color: rgb(32, 34, 31);
+text-shadow: 5px 5px 2px red;
+  }
+  p, li {
+      font-size: 16px;
+      line-height: 2;
+      letter-spacing: 1px;
+  }
+  img {
+      display: block;
+     margin: 0 auto;
+  }
+  body {
+      width: 1000px;
+      margin: 0 auto;
+      background-color: rgb(140, 0, 255);
+      padding: 0px 0px 0px 0px;
+      border: 5px solid yellow;
+
+  }
+
+  button {
+      color: red;
+      background-color: black;
+  }
